@@ -76,12 +76,7 @@ It is made with JS/HTML/CSS.
 
 ## Recent Blog Posts  
   
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=214hvclqogyluuy553mfynwgq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DimDob&&style=flat-square" align="center" />
