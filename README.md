@@ -43,7 +43,7 @@ It is made with JS/HTML/CSS.
 
 
 
-</td></tr>
+</td></tr></table>
 
 <br/>  
 
