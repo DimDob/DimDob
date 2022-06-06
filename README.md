@@ -43,7 +43,6 @@ It is made with JS/HTML/CSS.
 
 
 
-</td></tr></table>  
 
 <br/>  
 
