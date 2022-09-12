@@ -12,7 +12,8 @@ It is made with JS/HTML/CSS.
   
 
 - 💡 Fields of interests 💡 - I'm strongly interested in both technologies and business. I'm mainly using Python & JS as programming languages. I'm interested in AI, Data Science and Web development.    
-  
+
+- :man_technologist:	 Professional experience: :man_technologist:
 
 <br/>  
 
