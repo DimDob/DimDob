@@ -38,6 +38,8 @@ It is made with JS/HTML/CSS.
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="file:///C:/Users/ddobrev/OneDrive%20-%20Internet%20Securities,%20LLC/Desktop/linux-original.svg" alt="Python" height="50" />  
+
 </div>
 
 </td><td valign="top" width="33%">
