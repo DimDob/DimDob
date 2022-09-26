@@ -41,6 +41,10 @@ It is made with JS/HTML/CSS.
 
 </div>
 
+##DevOps
+<div align = "center">
+<img style="margin: 10px" src="skills-assets/linux-original.svg" alt="Linux" height="50">
+  
 </td><td valign="top" width="33%">
 
 
