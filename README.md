@@ -86,5 +86,3 @@ It is made with JS/HTML/CSS.
   
 
 
-
-
