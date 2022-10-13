@@ -67,8 +67,10 @@ It is made with JS/HTML/CSS.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/DimDob" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/stackoverflow-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;" />
 </a>  
+<a href="https://stackoverflow.com/users/20034481/dimitar-dobrev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </div>  
   
 
