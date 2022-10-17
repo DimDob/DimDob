@@ -6,9 +6,6 @@
 ### <div align="center">🌍Hello, world! 🌍
 I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Software university', where i study 'Software engineering',  and in 'New Bulgarian university', where i study "Business management". Both are located in Sofia, Bulgaria. I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
   
-
-- 🔭 I’m currently working on the following website: https://github.com/DimDob/Website-Made-with-JS-HTML-CSS-/tree/main/Project
-It is made with JS/HTML/CSS.  
   
 
 - 💡 Fields of interests 💡 - I'm strongly interested in both technologies and business. I'm mainly using Python & JS as programming languages. I'm interested in AI, Data Science and Web development.    
