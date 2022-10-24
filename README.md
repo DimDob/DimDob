@@ -33,7 +33,6 @@ I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Soft
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/perl/perl-icon.svg" alt="Perl" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
