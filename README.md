@@ -67,7 +67,7 @@ I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Soft
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;" />
 </a>  
 <a href="https://stackoverflow.com/users/20034481/dimitar-dobrev" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%2324292e.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;" />
+<img src="https://img.shields.io/badge/stackoverflow.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;" />
 </div>  
   
 
