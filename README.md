@@ -55,7 +55,7 @@ I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Soft
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/dimitar-dobrev-49a027206/" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/herrdobrrewd/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
