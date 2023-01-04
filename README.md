@@ -10,7 +10,7 @@ I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Soft
 
 - 💡 Fields of interests 💡 - I'm strongly interested in both technologies and business. I'm mainly using Python & JS as programming languages. I'm interested in AI, Data Science and Web development.    
 
-- :man_technologist:	 Professional experience: :man_technologist: - Currently working as an Intern Junior Software Developer at ISI Emerging Markets Group.
+
 
 <br/>  
 
