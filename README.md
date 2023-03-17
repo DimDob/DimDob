@@ -3,12 +3,12 @@
 </div>  
   
 
-### <div align="center">🌍Hello, world! 🌍
-I'm Dimitar, a 22 years old student from Varna, Bulgaria. I'm a student in 'Software university', where i study 'Software engineering',  and in 'New Bulgarian university', where i study "Business management". Both are located in Sofia, Bulgaria. I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
+### <div align="center">🌍Hello🌍
+I'm Dimitar, a 23 years old student from Varna, Bulgaria. I'm a student in 'New Bulgarian university', where i study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
   
   
 
-- 💡 Fields of interests 💡 - I'm strongly interested in both technologies and business. I'm mainly using Python & JS as programming languages. I'm interested in AI, Data Science and Web development. 
+- 💡 Fields of interests 💡 - I'm strongly interested in both technologies and business. I'm mainly using Python & JS as programming languages. I'm interested in trendy tech topics, programming, business, entrepreneurship, development. 
 
 - :man_technologist: Currently working as a Jr. Software developer intern in Halo Diagnostics. :man_technologist: 
 
