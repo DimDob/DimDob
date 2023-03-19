@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🌍Hello🌍
+### <div align="center">🌍Hello, world!🌍
 I'm Dimitar, a 23 years old student from Varna, Bulgaria. I'm a student in 'New Bulgarian university', where i study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
   
   
