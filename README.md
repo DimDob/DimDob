@@ -4,7 +4,7 @@
   
 
 ### <div align="center">🌍Hello, world!🌍
-I'm Dimitar, a 24 years old student from Varna, Bulgaria. I'm a post-graduated student in 'New Bulgarian university', where i used to study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
+I'm Dimitar, a 24 years old student from Varna, Bulgaria. I'm a post-graduated student from 'New Bulgarian university', where i used to study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
   
   
 
