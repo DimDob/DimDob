@@ -4,7 +4,7 @@
   
 
 ### <div align="center">🌍Hello, world!🌍
-I'm Dimitar, a 24 years old student from Varna, Bulgaria. I'm a student in 'New Bulgarian university', where i study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
+I'm Dimitar, a 24 years old student from Varna, Bulgaria. I'm a post-graduated student in 'New Bulgarian university', where i used to study "Business management". I'm currently working on increasing my set of knowledge and i'm motivated to learn as much new things as possible.</div>  
   
   
 
@@ -77,7 +77,7 @@ I'm Dimitar, a 24 years old student from Varna, Bulgaria. I'm a student in 'New 
 <a href="https://www.facebook.com/herrdobrrewd/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/iamherrd/" target="_blank">
+<a href="https://www.instagram.com/balkantarzan/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/DimDob" target="_blank">
